@@ -58,9 +58,9 @@ I am enjoying 30 days of python """
 # print(type(['Bilaal', 'Afrah', 'Anaya']))
 # print(type('Bilaal'))
 
-p = [3]
-q = [2]
+# p = [3]
+# q = [2]
 
-print(math.dist(p, q))
+# print(math.dist(p, q))
 
 #Need to import math before running math functions

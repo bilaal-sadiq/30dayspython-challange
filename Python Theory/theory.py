@@ -15,7 +15,8 @@ python = Myscript.py or with python shell"""
 #Single line comment we use hash
 """"We use triple quotes in python so we can write multiple lines of comments"""
 
-"""In Python there are several types of data types. Let us get started with the most common ones. Different data types will be covered in detail in other sections. For the time being, let us just go through the different data types and get familiar with them. You do not have to have a clear understanding now.""" 
+"""In Python there are several types of data types. Let us get started with the most common ones. Different data types will be covered in detail in other sections. 
+For the time being, let us just go through the different data types and get familiar with them. You do not have to have a clear understanding now.""" 
 
 #Number
 """ Integer: Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
