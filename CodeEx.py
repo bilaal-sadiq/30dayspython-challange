@@ -1,8 +1,13 @@
-mass = 95
-height = 1.8
+# username = input('Enter your name: ')
+# print(username)
 
-heightDouble = height ** 2
+# age = int(input('What is your age?'))
+# print(age)
 
-bmi = mass / heightDouble
+num1 = int(input('Enter first number: '))
+num2 = int(input('Enter second number: '))
 
-print(bmi)
+total = (num1 ** 2) + (num2 ** 2)
+
+
+print(total)
