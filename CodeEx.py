@@ -1,5 +1,8 @@
-temp = 65
+mass = 95
+height = 1.8
 
-celsius = (temp - 32) / 1.8
+heightDouble = height ** 2
 
-print(celsius)
+bmi = mass / heightDouble
+
+print(bmi)
