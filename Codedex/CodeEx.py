@@ -32,4 +32,19 @@
 # totalDollars = pesos + soles + reais
 # print(totalDollars)
 
+# Here are some common Python errors:
+
+# SyntaxError: this occurs when invalid Python code is present.
+# NameError: this occurs when you're trying to use a variable without declaring it first.
+# TypeError: this occurs when the data type you're using doesn't suit what you're trying to do.
+
 """ CHAPTER 2 COMPLETE """
+
+# import random
+
+# num = random.randint(0, 1)   # Generates a random number that's either 0 or 1
+
+# if num > 0.5:
+#   print('Heads')
+# else:
+#   print('Tails')
