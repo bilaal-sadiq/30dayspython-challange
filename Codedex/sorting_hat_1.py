@@ -67,4 +67,4 @@ elif answer == 3:
 elif answer == 4:
     print("Gryffindor +2")
 else:
-    print("Wrong output")
+    print("Wrong Input")
